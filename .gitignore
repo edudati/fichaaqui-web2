@@ -4,14 +4,11 @@ Thumbs.db
 Desktop.ini
 
 # IDE
+.cursor/
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# Node (caso use futuramente)
-node_modules/
-package-lock.json
 
 # Vercel
 .vercel/
